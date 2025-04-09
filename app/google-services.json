@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243125108978",
+    "project_id": "travelu-29d40",
+    "storage_bucket": "travelu-29d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243125108978:android:2730ab8029320759e3906b",
+        "android_client_info": {
+          "package_name": "com.example.travelu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXmdVp1EqETyz3gcgkwStEwFNURrSNEwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
